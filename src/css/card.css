@@ -1,0 +1,73 @@
+.card {
+    box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.2), 0px 2px 2px 0px rgba(0, 0, 0, 0.14), 0px 3px 1px -2px rgba(0, 0, 0, 0.12);
+    padding: 24px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    text-align: initial;
+}
+
+.card-title {
+    color: rgba(0, 0, 0, 0.87);
+    font-size: 1.5rem;
+    font-weight: 400;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    line-height: 1.35417em;
+}
+
+.card-media {
+    text-align: center;
+    display: block;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 5px;
+}
+
+.card-actions {
+    padding: 8px 12px;
+    text-align: center;
+}
+
+.card-description {
+    color: rgba(0, 0, 0, 0.87);
+    font-size: 0.875rem;
+    font-weight: 400;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    line-height: 1.46429em;
+}
+
+.card-area {
+    display: flex;
+}
+
+.toy-slider-area {
+    width: 92%
+}
+
+.arrow-slider {
+    width: 5%;
+    height: 208px;
+    margin-top: 10px;
+}
+
+.icon {
+    top: 70px;
+    position: relative;
+}
+
+.arrow-slider:hover {
+    background-color: #ececec;
+}
+
+.name-store {
+    margin-bottom: 10px;
+}
+
+.price {
+    height: 30px;
+    margin-top: 20px;
+}
+
+.detail-card {
+    padding-top: 10px;
+}
