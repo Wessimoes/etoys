@@ -71,3 +71,16 @@
 .detail-card {
     padding-top: 10px;
 }
+
+.comment-box {
+    margin-top: 10px;
+    padding: 5px;
+    border-radius: 3px;
+}
+
+.comment {
+    background-color: #f0f0f0;
+    border-radius: 15px;
+    padding: 7px;
+    padding-left: 10;
+}

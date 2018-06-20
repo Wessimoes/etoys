@@ -10,21 +10,21 @@ const products = [
         name: 'Batman',
         description: 'Boneco colecionável do Batman edição clássica',
         price: '127,90',
-        photo: 'https://imgur.com/a/bD2Z6qS'
+        photo: '/public/batman.jpg'
     },
     {
         id: 2,
         name: 'Harry Potter',
         description: 'Boneco colecionável do Harry Potter',
         price: '134,40',
-        photo: 'https://imgur.com/a/PWeSiUk'
+        photo: '/public/harry.png'
     },
     {
         id: 3,
         name: 'Tony Stark',
         description: 'Boneco colecionável do Tony Stark',
         price: '99,90',
-        photo: 'https://imgur.com/a/hvporoY'
+        photo: '/public/tony.png'
     },
 ];
 
